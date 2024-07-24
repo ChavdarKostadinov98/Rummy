@@ -11,13 +11,6 @@ class Game:
         self.current_player: Player
 
 
-deck = Deck()
-dealer = Dealer(deck)
-players = [Player("Ani", "Bulgaria"),
-           Player("Chavdar", "Bulgaria"),
-           Player("Pesho", "Bulgaria"),
-           Player("Tisho", "Bulgaria")]
-
 
 
 

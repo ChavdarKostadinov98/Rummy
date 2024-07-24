@@ -17,10 +17,3 @@ class Dealer:
 
         deck.add_to_pile(deck.deck_of_cards[-1])
         deck.remove_card(deck.deck_of_cards[-1])
-
-
-
-
-
-
-
